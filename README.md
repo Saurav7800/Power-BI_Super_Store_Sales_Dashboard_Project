@@ -19,4 +19,4 @@ The Super Store Sales Dashboard aims to provide comprehensive insights into the 
 ## Tools Used
 - **Power BI**: The dashboard is built and data preprocessing and manipulation were performed using Power BI, a powerful business analytics tool by Microsoft.
 
-Happy learning
+Happy learning!
